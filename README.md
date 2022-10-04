@@ -1,0 +1,2 @@
+# simplebank
+golang master class
